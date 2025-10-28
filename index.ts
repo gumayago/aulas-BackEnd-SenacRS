@@ -1,0 +1,5 @@
+const n1:number= 10
+
+
+
+ 
