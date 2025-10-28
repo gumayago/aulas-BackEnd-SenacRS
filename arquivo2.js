@@ -1,1 +1,1 @@
-dasdda
+n2=(Number(preompt("digite um numero: ")))
