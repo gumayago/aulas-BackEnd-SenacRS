@@ -2,8 +2,8 @@
 
 //git init iniciar
  //git status 
- //git add . (adiciona tudo na caixa)
- //git commit (fechar a caixa)
+ //git add . (adiciona todas na caixa) (todas modificações)
+ //git commit -m "nome da add q fez!" (fechar a caixa)
  //git push (subir os arquivos)
  //
  
