@@ -1,1 +1,1 @@
-dsadasdsvsa
+n1=(Number(preompt("digite um numero: ")))
